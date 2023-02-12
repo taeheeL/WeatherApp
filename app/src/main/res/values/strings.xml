@@ -15,4 +15,5 @@
     <string name="country">Country</string>
     <string name="sunrise">Sunrise</string>
     <string name="sunset">Sunset</string>
+    <string name="refresh">Refresh</string>
 </resources>
